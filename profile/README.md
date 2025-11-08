@@ -1,4 +1,4 @@
-# 🚀 Deploy.Land(https://dev.d20iv4pldubgty.amplifyapp.com/)
+# 🚀 [Deploy.Land](https://dev.d20iv4pldubgty.amplifyapp.com/)
 
 > **AWS 기반 완전 자동화된 CI/CD 파이프라인**
 
