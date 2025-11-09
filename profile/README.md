@@ -42,6 +42,7 @@ Deploy Land는 **AWS에서 프로덕션 배포까지** 전 과정을 자동화�
 | **Lambda (read)** | API | 상태 조회 API |
 | **Lambda (Validation)** | Notification | Health Check 검증 알림 전송 |
 | **API Gateway** | API Endpoint | REST API 엔드포인트 |
+| **Bedrock** | Analyze log | 실패 로그 분석 |
 | **Amplify** | Monitoring | 게임형 파이프라인 모니터링 앱 |
 | **Discord/Slack** | Notification | 실시간 알림 수신 |
 
