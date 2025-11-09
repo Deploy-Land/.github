@@ -5,7 +5,7 @@
 ## 😁 팀원 소개
 |                                                                 **고동현**                                                                  |                                                              **백동민**                                                               |                                                               **최윤호**                                                                |
 | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://avatars.githubusercontent.com/u/93601786?v=4" height=150 width=150> <br/> @Gosorasora](https://github.com/Gosorasora) <br/> **Infra, BE** | [<img src="https://avatars.githubusercontent.com/u/84498742?v=4" height=150 width=150> <br/> @dongmin0204](https://github.com/dongmin0204) <br/> **Infra, FE** | [<img src="https://avatars.githubusercontent.com/u/151824752?v=4" height=150 width=150> <br/> @yunhoch0i](https://github.com/yunhoch0i) <br/> **Infra, QA** |
+| [<img src="https://avatars.githubusercontent.com/u/93601786?v=4" height=150 width=150> <br/> @Gosorasora](https://github.com/Gosorasora) <br/> **Infra, BE** | [<img src="https://avatars.githubusercontent.com/u/84498742?v=4" height=150 width=150> <br/> @dongmin0204](https://github.com/dongmin0204) <br/> **Infra, FE** | [<img src="https://github.com/user-attachments/assets/b400183c-0684-4e5b-9dfc-d3f0a3e668a1" height=150 width=150> <br/> @yunhoch0i](https://github.com/yunhoch0i) <br/> **Infra, QA** |
 
 
 ## 📋 프로젝트 소개
@@ -24,7 +24,8 @@ Deploy Land는 **AWS에서 프로덕션 배포까지** 전 과정을 자동화�
 
 ## 🏗️ 아키텍처
 
-<img width="720" height="584" alt="image" src="https://github.com/user-attachments/assets/0714e3b2-04ca-4664-99cd-16e82f27807d" />
+<img width="4344" height="3528" alt="image" src="https://github.com/user-attachments/assets/fc163b02-961e-4f35-999e-4c585e7e93d9" />
+
 
 
 ### 🧩 컴포넌트 설명
